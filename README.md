@@ -1,2 +1,2 @@
 # AutoGD
-aoto checkin shell
+自动签到脚本
